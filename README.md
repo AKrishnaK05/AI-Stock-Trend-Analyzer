@@ -10,7 +10,7 @@ This project is an end-to-end AI application that predicts the future closing pr
 
 ## 📸 Demo
 
-![App Screenshot](https://raw.githubusercontent.com/AKrishnaK05/AI-Stock-Trend-Analyzer/main/screenshot.png) 
+![App Screenshot](https://github.com/AKrishnaK05/AI-Stock-Trend-Analyzer/blob/main/Screenshot.png) 
 ---
 
 ## 🚀 Features
