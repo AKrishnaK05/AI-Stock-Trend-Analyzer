@@ -10,7 +10,7 @@ This project is an end-to-end AI application that predicts the future closing pr
 
 ## 📸 Demo
 
-![App Screenshot](https://raw.githubusercontent.com/your-username/your-repository-name/main/screenshot.png) 
+![App Screenshot](https://raw.githubusercontent.com/AKrishnaK05/AI-Stock-Trend-Analyzer/main/screenshot.png) 
 ---
 
 ## 🚀 Features
@@ -38,7 +38,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/AI-Stock-Trend-Analyzer.git](https://github.com/AKrishnaK05/AI-Stock-Trend-Analyzer.git)
+    git clone https://github.com/AKrishnaK05/AI-Stock-Trend-Analyzer.git
     cd AI-Stock-Trend-Analyzer
     ```
 
